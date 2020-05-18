@@ -1,0 +1,1 @@
+﻿public enum EWeapon { sword, axe, bow, hammer }
